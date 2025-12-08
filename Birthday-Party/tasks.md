@@ -55,3 +55,33 @@ git merge unordered-list
 ```
 <br>
 
+**Create a new branch called big-heading**
+```
+git branch big-heading
+```
+<br>
+
+**Switch to big-heading branch and make the heading bigger**
+```
+# Replace
+<h1>Kay's Birthday Party</h1>
+
+# With
+<h1 style="font-size: 72px">Kay's Birthday Party</h1>
+```
+<br>
+
+**Add index.html to the staging area and make a commit**
+```
+git add index.html
+git commit -m "Make heading bigger"
+```
+<br>
+
+**Switch back to main and merge big-heading**
+```
+git checkout main
+git merge big-heading
+```
+<br>
+
