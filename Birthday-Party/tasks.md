@@ -48,3 +48,10 @@ git commit -m "Change paragraph to unordered list"
 ```
 <br>
 
+**Switch to main and merge unordered-list**
+```
+git checkout main
+git merge unordered-list
+```
+<br>
+
