@@ -17,3 +17,13 @@ Click Save.
 
 <br>
 
+4. Add README.md to the staging area.
+
+<br>
+
+5. Follow the same order of actions as above for examples.md: keep the edits branch file changes and delete the HEAD changes.  
+Click Save.  
+
+<br>
+
+6. Add examples.md to the staging area and make a commit. Your commit message could be “Resolve merge conflict”.
