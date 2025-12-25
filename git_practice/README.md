@@ -21,7 +21,7 @@ At the end of this **week**, I plan to:
 3. Share a Markdown note
 
 My favorite quote is:
-> If you didn't get it the first time
-> Do not despair
-> Try and try again
-> ~ Anonymous
+> If you didn't get it the first time  
+> Do not despair  
+> Try and try again  
+> ~ Anonymous  
