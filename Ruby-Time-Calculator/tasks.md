@@ -27,3 +27,7 @@ Click Save.
 <br>
 
 6. Add examples.md to the staging area and make a commit. Your commit message could be “Resolve merge conflict”.
+
+<br>
+
+7. Delete the edits branch.  
